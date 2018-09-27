@@ -1,4 +1,4 @@
-###chaining handlers
+### chaining handlers
 
 Use function Handler in this example file to easily chain handler
 functions. The function chains the handler functions in descending order, you can modify it according to your wish. 
