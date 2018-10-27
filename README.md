@@ -12,29 +12,3 @@ You can add programs as simple as:
 Or some useful codes such as:
 * Sorting algorithms
 * String manipulation
-
-#### Hacktoberfest🥂 (happy coding)!!
-
-## Steps to follow :scroll:
-
-### 1. Register for Hacktoberfest
-You can register from [here](https://hacktoberfest.digitalocean.com).
-
-### 2. Fork it :fork_and_knife:
-
-### 3. Add a go program with proper comments :rabbit2:
-For a pr to be approved and merged please note 
-- I dont allow deletions of any files or code.
-- I dont allow files to be directly added in root directory of project, add them in a folder
-
-### 4. Ready, Steady, Go... :turtle: :rabbit2:
-
-Once you have completed these steps, you are ready to start contributing 
-by creating [pull requests](https://github.com/dakait/Go-for-beginners/pulls).
-
-### 5. Give this Project a Star :star:
-
-If you liked working on this project, please share this project as much 
-as you can and star this project to help as many people in open source as you can.
-
-#### Thank you!!
